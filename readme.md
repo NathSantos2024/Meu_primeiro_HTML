@@ -28,9 +28,9 @@ Ah, e se você quiser me encontrar hoje em dia, estou muito mais impressionante.
 
 ## Links Úteis
 
-- [Meu Site](#) 
-- [www.linkedin.com/in/nathalia-santos-757b21300](#) 
-- [nathsantos.ti@gmail.com](#) 
+- [Meu Primeiro HTML](https://nathsantos2024.github.io/Meu_primeiro_HTML/)
+- [Linkedin](www.linkedin.com/in/nathalia-santos-757b21300) 
+- [E-mail](nathsantos.ti@gmail.com)
 
 
 ---
